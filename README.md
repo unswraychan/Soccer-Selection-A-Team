@@ -1,3 +1,5 @@
+# Internation Soccer Selection - The A Team
+
 ## Executive Summary
 
 Rarita is looking to participate in the Football and Sporting Association (FSA) League. We are hired to:
@@ -21,6 +23,23 @@ Over the 10 years, the investment of 995mil Doubloons allows Rarita to construct
 4.	After establishing a strong link between underlying team value and performance (Appendix B: Figure 1), determined the probability of placing top 10 using team data from the 2021 tournament (Appendix B: Figure 2) - probabilities were found by discounting the total team value back to 2021 at the superimposed inflation rate
 5. Minimised the net present value (NPV) of the total player salaries each year (includes return on investment and superimposed inflation), whilst meeting the competitiveness requirement
 6.	With the team budget for each year confirmed, players were selected
+
+### Strategy
+
+To meet the competitiveness requirement, regardless of return on investment (ROI) of unspent monies, increasing spending by an order of magnitude for two of the years (in the first 5 years) is required (Appendix C). However, large player budgets in 2025 and 2026 are ideal given other considerations. 
+
+*	Large player salaries early in the venture is not prudent because:
+**	support structures for the team are yet to be tried and tested;
+**	public typically have a low expectation of performance early in the venture, however, mediocre performance following success could reduce morale and support; and
+**	three years of low spending enables early validation of the model and assumptions without exposing the venture to significant risk.
+
+*	If the team proves successful in 2025 or 2026 it may garner strong national support and interest, inducing higher team investment from 2027-2031, and leading to a greater chance of future tournament success and further economic benefits.
+
+### Results 
+
+From the above results the anticipated spending on players for each year and the subsequent probabilities of placaing are shown in Figures 1 and 2.
+
+![image](https://user-images.githubusercontent.com/103296443/162554195-dc78af20-d76d-489f-859b-3db8396472e9.png)
 
 ![image](https://user-images.githubusercontent.com/103296443/162554051-aff1b08b-9bd2-44af-8d5d-280a76768fa8.png)
 
