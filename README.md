@@ -14,6 +14,18 @@ Over the 10 years, the investment of 995mil Doubloons allows Rarita to construct
 
 ## Team Selection
 
+###	Steps
+1.	Determined player's value based on playing statistics, position, and league (important indicator of the quality of opposition)
+2.	Maximised the total value of a team whilst constraining the total player salary, number of players in a position and proportion of allocated value for each position
+3.	Applied model to different salary caps to fit a polynomial equation linking salary and value
+4.	After establishing a strong link between underlying team value and performance (Appendix B: Figure 1), determined the probability of placing top 10 using team data from the 2021 tournament (Appendix B: Figure 2) - probabilities were found by discounting the total team value back to 2021 at the superimposed inflation rate
+5. Minimised the net present value (NPV) of the total player salaries each year (includes return on investment and superimposed inflation), whilst meeting the competitiveness requirement
+6.	With the team budget for each year confirmed, players were selected
+
+![image](https://user-images.githubusercontent.com/103296443/162554051-aff1b08b-9bd2-44af-8d5d-280a76768fa8.png)
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
